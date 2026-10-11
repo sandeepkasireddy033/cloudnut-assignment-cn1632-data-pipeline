@@ -74,6 +74,3 @@ python process_data.py
 
 ---
 
-### Key Tips for Your README:
-* **Replace `process_data.py`** with whatever filename you used for your code (e.g., `main.py`, `analysis.ipynb`, etc.).
-* If your evaluator requires specific instructions on how to grade or run your code, pla
